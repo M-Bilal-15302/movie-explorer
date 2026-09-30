@@ -13,5 +13,5 @@ import react from "@vitejs/plugin-react"; // <-- Change this line
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/movie-explorer/",
+  base: "//movie-explorer/",
 });
